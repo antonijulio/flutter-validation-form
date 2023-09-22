@@ -14,5 +14,4 @@ Using `TextEditingController` as text controller.
 
 ![home page](./home_page.png)
 ![home isempty](./value_isempty.png)
-![home validation](./code_validation.png)
 ![home succes](./value_succes.png)
